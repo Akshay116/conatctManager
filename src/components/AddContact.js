@@ -10,6 +10,10 @@ class Addcontact extends Component {
             <label>Name</label>
             <input type="text" name="name" placeholder="name" />
           </div>
+          <div className="field">
+            <label>Mobile Number</label>
+            <input type="number" name="number" placeholder="Mobile Number" />
+          </div>
 
           <div className="field">
             <label>Email</label>
